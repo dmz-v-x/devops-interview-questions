@@ -124,3 +124,7 @@ Here we're updating feature with the latest changes from main. Often done to kee
 ## Summary (Interview-Friendly Line)
 
 Use `git merge` when you want to safely combine branches and preserve full history, especially in shared branches. Use `git rebase` when working on local or short-lived feature branches to create a clean, linear commit history before merging.
+
+> Git merge combines two branches and creates a new merge commit, preserving the full history.
+
+> Git rebase moves your branch commits on top of another branch, creating a cleaner, linear history.
