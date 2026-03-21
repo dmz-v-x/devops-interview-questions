@@ -157,7 +157,7 @@ Check:
 
 ---
 
-### Interview Summary (Part 1)  
+### Interview Summary 
 
 “I would start by checking logs and ensuring the app is running and listening on the correct port (0.0.0.0). Then I’d verify port mapping, network configuration, and firewall rules. I’d also test connectivity from inside the container to isolate whether the issue is internal or external.”
 
