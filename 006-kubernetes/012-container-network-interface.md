@@ -149,4 +149,4 @@ Example:
 
 ### Interview Summary  
 
-CNI plugins are responsible for implementing networking in Kubernetes by assigning IPs, configuring pod interfaces, enabling pod-to-pod communication, enforcing network policies, and handling external connectivity. They provide flexibility, performance optimization, and security features, making them a critical component of Kubernetes networking. :contentReference[oaicite:0]{index=0}
+CNI plugins are responsible for implementing networking in Kubernetes by assigning IPs, configuring pod interfaces, enabling pod-to-pod communication, enforcing network policies, and handling external connectivity. They provide flexibility, performance optimization, and security features, making them a critical component of Kubernetes networking. 
