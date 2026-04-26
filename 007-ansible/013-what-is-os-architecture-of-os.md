@@ -33,14 +33,6 @@ An OS is responsible for:
 
 ---
 
-### Examples of Operating Systems  
-
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-
----
-
 ### Core Components of an Operating System  
 
 ---
@@ -102,9 +94,6 @@ Handles:
 
 - Entire OS runs in kernel space  
 
-Examples:
-
-- :contentReference[oaicite:3]{index=3}  
 
 **Pros:**
 - Fast performance  
@@ -121,7 +110,7 @@ Examples:
 
 Examples:
 
-- :contentReference[oaicite:4]{index=4}  
+- :[oaicite:4]{index=4}  
 
 **Pros:**
 - More secure and modular  
@@ -137,7 +126,7 @@ Examples:
 
 Examples:
 
-- :contentReference[oaicite:5]{index=5}  
+- :[oaicite:5]{index=5}  
 
 **Pros:**
 - Balance of performance and modularity  
