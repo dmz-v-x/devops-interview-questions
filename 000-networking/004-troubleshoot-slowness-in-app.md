@@ -19,9 +19,9 @@ htop
 ```
 
 - Check:
-  - CPU utilization  
-  - Memory usage  
-  - Disk usage  
+- CPU utilization  
+- Memory usage  
+- Disk usage  
 
 ---
 
@@ -33,9 +33,9 @@ iostat
 ```
 
 - Helps identify:
-  - CPU bottlenecks  
-  - Memory pressure  
-  - Disk I/O issues  
+- CPU bottlenecks  
+- Memory pressure  
+- Disk I/O issues  
 
 ---
 
@@ -53,20 +53,20 @@ iostat
 Additionally:
 
 - Use observability tools:
-  - Prometheus  
-  - Grafana  
+- Prometheus  
+- Grafana  
 
 - Check:
-  - Pod resource usage  
-  - Node pressure  
+- Pod resource usage  
+- Node pressure  
 
 ---
 
 #### Fix:
 
 - Scale:
-  - Horizontal Pod Autoscaler (HPA)  
-  - Increase resources  
+- Horizontal Pod Autoscaler (HPA)  
+- Increase resources  
 
 ---
 
@@ -78,8 +78,8 @@ traceroute <host>
 ```
 
 - Helps identify:
-  - Delays in response  
-  - Network hops  
+- Delays in response  
+- Network hops  
 
 ---
 
@@ -98,25 +98,25 @@ nload
 ```
 
 - Identify:
-  - Network saturation  
-  - High traffic  
+- Network saturation  
+- High traffic  
 
 ---
 
 ### 4. Check Application Logs
 
 - Look at:
-  - Error logs  
-  - System logs  
+- Error logs  
+- System logs  
 
 ```bash
 tail -f /var/log/app.log
 ```
 
 - Identify:
-  - Slow functions  
-  - Exceptions  
-  - Thread issues  
+- Slow functions  
+- Exceptions  
+- Thread issues  
 
 ---
 
@@ -127,8 +127,8 @@ netstat -tulnp
 ```
 
 - Look for:
-  - Too many connections  
-  - Stuck sockets  
+- Too many connections  
+- Stuck sockets  
 
 ---
 
@@ -142,7 +142,7 @@ netstat -tulnp
 ### 6. Check Container / Pod Limits
 
 - Ensure:
-  - CPU/memory limits are not throttling pods  
+- CPU/memory limits are not throttling pods  
 
 ---
 
